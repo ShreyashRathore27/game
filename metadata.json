@@ -1,0 +1,6 @@
+{
+  "name": "PAIN: Here Comes The Smack",
+  "description": "Retro 3D arcade wrestling game inspired by SmackDown! Here Comes The Pain with fluid animations, Red Smackdown finishers, body-part damage, dynamic audio, and modern gamepad haptics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
